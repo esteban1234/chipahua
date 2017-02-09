@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/*------------------ir-arriba-------------*/
+
+
+/*.ir-arriba {
+    display: none;
+    padding: 20px;
+    background: rgb(190, 208, 1);
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+*/
+
+.contenheader {
+    background: url("../img/limpieza3.jpg") no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 629px;
+    width: 100%;
+    text-align: center;
+}
+
+
+/*.contenheader p {
+    padding: 10px 0px 10px 0px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #00bdff;
+    width: 100%;
+    text-align: center;
+    font-size: 1.3em;
+}
+*/
+
+header {
+    /*padding: 10px 0px 10px 0px;*/
+    /*background: rgba(0, 0, 0, 0.5);*/
+    /*border: 2px red solid;*/
+    /*color: #00bdff;*/
+    width: 100%;
+    overflow: hidden;
+    /*text-align: center;
+font-size: 1.3em;
+*/
+}
+
+figure {
+    /*border: 2px red solid;*/
+    width: 18%;
+    float: left;
+    margin-left: 8%;
+    /*background: rgba(255, 255, 255, 0.5);*/
+    /*margin-top: 2%;*/
+    /*margin: 0 auto;*/
+}
+
+.menu {
+    float: right;
+    /*border: 2px red solid;*/
+    border-top: dotted;
+    border-bottom: dotted;
+    margin-top: 5%;
+    margin-right: 22%;
+}
+
+.menu ul {
+    width: 100%;
+}
+
+.menu ul li {
+    list-style: none;
+    float: left;
+    padding: 10px;
+    color: #fff;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 17px;
+    color: rgb(19, 106, 139);
+    font-weight: bold;
+    /*color: #fff;*/
+}
+
+.menu ul li:hover {
+    /*background-color: rgb(191, 22, 47);*/
+    background-color: #d98880;
+}
+
+.menu ul li:hover a {
+    color: #fff;
+}
+
+.select {
+    background-color: #d98880;
+    color: #fff;
+}
