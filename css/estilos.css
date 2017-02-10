@@ -362,3 +362,141 @@ footer {
     margin-right: 5%;
     margin-top: 1%;
 }
+
+
+/*-----------------------quienes somos--------------*/
+
+.contenheadern {
+    background: url("../img/vigi2.jpg") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 429px;
+    width: 100%;
+    /*text-align: center;*/
+}
+
+.texton {
+    width: 100%;
+}
+
+.textndentro {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 17px;
+    color: #4d5656;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contienetextoeimagenes {
+    /*outline: 2px red solid;*/
+    margin: 0 auto;
+    margin-top: 2%;
+    overflow: hidden;
+    width: 90%;
+    margin-bottom: 2%;
+}
+
+.textomvv {
+    /*outline: 2px green solid;*/
+    width: 40%;
+    float: left;
+}
+
+.mision {
+    width: 100%;
+    margin-top: 3%;
+    border: 1px #4d5656 solid;
+    padding: 10px;
+}
+
+.misiontit {
+    text-align: center;
+    font-size: 25px;
+    color: #4d5656;
+    font-family: 'Roboto', sans-serif;
+}
+
+.misionsubtit {
+    text-align: center;
+    font-size: 20px;
+    color: #4d5656;
+    font-family: 'Roboto', sans-serif;
+}
+
+.imagenes {
+    /*outline: 2px yellow solid;*/
+    width: 58%;
+    float: right;
+    /*height: 350px;*/
+}
+
+.imagenesdentro {
+    width: 100%;
+    height: 50px;
+    /*clear: both;*/
+}
+
+.imagenesdentro2 {
+    width: 100%;
+    height: 80px;
+    display: block;
+    /*clear: both;*/
+    margin-top: 60%;
+}
+
+
+/*-------------------servicios--------------*/
+
+.contenheaders {
+    background: url("../img/servicios5.jpg") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 429px;
+    width: 100%;
+    /*text-align: center;*/
+}
+
+.caja_q {
+    outline: 2px red solid;
+    width: 85%;
+    margin: 0 auto;
+    margin-top: .5%;
+    /*text-align: center;*/
+}
+
+.caja_q_1 {
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 3%;
+    text-align: center;
+
+}
+
+.icono_q {
+    font-size: 30px;
+    color: rgb(138, 38, 88);
+}
+
+.caja_q_1:hover .icono_q {
+    color: rgb(42, 42, 41);
+}
+
+.contentexto_caja {
+    width: 100%;
+}
+
+.titulo_caja {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.texto_caja {
+    font-size: 17px;
+    text-align: justify;
+}

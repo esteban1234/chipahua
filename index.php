@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php include 'vistas/encabezado.php' ?>
 
 <body>
@@ -10,9 +11,9 @@
 		<div class="menu">
 			<ul>
 				<li class="select"><a href=""><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>
-				<li><a href=""><span><i class="fa fa-users" aria-hidden="true"></i></span>&nbsp;QUIENES SOMOS</a></li>
-				<li><a href=""><span><i class="fa fa-suitcase" aria-hidden="true"></i></span>&nbsp;SERVICIOS</a></li>
-				<li><a href=""><span><i class="fa fa-phone" aria-hidden="true"></i></span>&nbsp;CONTACTO</a></li>
+				<li><a href="vistas/nosotros.php"><span><i class="fa fa-users" aria-hidden="true"></i></span>&nbsp;QUIENES SOMOS</a></li>
+				<li><a href="vistas/servicios.php"><span><i class="fa fa-suitcase" aria-hidden="true"></i></span>&nbsp;SERVICIOS</a></li>
+				<li><a href="vistas/contacto.php"><span><i class="fa fa-phone" aria-hidden="true"></i></span>&nbsp;CONTACTO</a></li>
 			</ul>
 		</div>
 	</header>
@@ -73,7 +74,7 @@
 	<p>Somos la mejor inversión en la vigilancia de sus oficinas.</p>
 	<div class="btn-toolbar boton" role="toolbar">
   <button type="button" class="btn btn-info btn-lg">
-    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Contátanos
+    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
   </button>
 </div>
 </article>
