@@ -37,10 +37,11 @@
                 </span>
                 <article class="contentexto_caja">
                     <p class="titulo_caja">Instalaciones</p>
-                    <p class="texto_caja">Mantenimiento de aparatos, dispositivos y sistemas de seguridad y de protección.                  -                 
-mayas de seguridad pudiendo ser estas eléctricas o no
- cercas eléctricas  y de alambres en los perímetros de los bienes inmuebles.                         
-- Comercialización e instalación de sistemas de alarma y seguridad.          
+                    <p class="texto_caja">
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Mantenimiento de aparatos, dispositivos y sistemas de seguridad y de protección.<br> <br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Mayas de seguridad pudiendo ser estas eléctricas o no.<br> <br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Cercas eléctricas  y de alambres en los perímetros de los bienes inmuebles. <br> <br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Comercialización e instalación de sistemas de alarma y seguridad.         
 </p>
                 </article>
             </article>
@@ -52,7 +53,12 @@ mayas de seguridad pudiendo ser estas eléctricas o no
                 </span>
                 <article class="contentexto_caja">
                     <p class="titulo_caja">Vigilancia</p>
-                    <p class="texto_caja">Nuestro equipo cuenta con años de experiencia en el sector, habiendo participado para empresas regionales, nacionales con diferentes giros.</p>
+                    <p class="texto_caja">
+                    	<span><i class="fa fa-check" aria-hidden="true"></i></span>Vigilancia y protección de bienes, establecimientos, espectáculos, certámenes o convenciones.<br><br>
+                    	<span><i class="fa fa-check" aria-hidden="true"></i></span>Planificación y asesoramiento de las actividades propias de las empresas de seguridad.<br><br>
+                    	<span><i class="fa fa-check" aria-hidden="true"></i></span>Prestación de servicios de vigilancia y protección mediante guardias particulares.<br><br>
+                    	<span><i class="fa fa-check" aria-hidden="true"></i></span>Planificación y asesoramiento de las actividades propias de las empresas de seguridad.
+                    </p>
                 </article>
             </article>
 
@@ -63,10 +69,33 @@ mayas de seguridad pudiendo ser estas eléctricas o no
                 </span>
                 <article class="contentexto_caja">
                     <p class="titulo_caja">Limpieza</p>
-                    <p class="texto_caja">Nuestro equipo cuenta con años de experiencia en el sector, habiendo participado para empresas regionales, nacionales con diferentes giros.</p>
+                    <p class="texto_caja">
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Comercio al por menor de artículos para la limpieza.<br><br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Servicios de limpieza de inmuebles.<br><br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Cristales.<br><br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Muebles y tapices. <br><br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Pisos.<br><br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Personal de limpieza.<br><br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Cocinas industriales.<br><br>
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Alfombras.</p>
                 </article>
             </article>
 </article>
+
+<article class="contenproductos">
+	<article class="fondo">
+		<p class="titarticulos">Articulos de limpieza</p>
+		<article class="contencir">
+			<article class="cuadros">
+				<div class="imgcuadros">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Aerosoles</div>
+			</article>
+		</article>
+	</article>
+</article>
+
 </article>
 
 </body>

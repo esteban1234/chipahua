@@ -462,11 +462,12 @@ footer {
 }
 
 .caja_q {
-    outline: 2px red solid;
+    /*outline: 2px red solid;*/
     width: 85%;
     margin: 0 auto;
     margin-top: .5%;
     /*text-align: center;*/
+    overflow: hidden;
 }
 
 .caja_q_1 {
@@ -475,7 +476,6 @@ footer {
     margin-left: 3%;
     margin-top: 3%;
     text-align: center;
-
 }
 
 .icono_q {
@@ -484,7 +484,8 @@ footer {
 }
 
 .caja_q_1:hover .icono_q {
-    color: rgb(42, 42, 41);
+    /*color: rgb(42, 42, 41);*/
+    color: rgb(19, 106, 139);
 }
 
 .contentexto_caja {
@@ -499,4 +500,56 @@ footer {
 .texto_caja {
     font-size: 17px;
     text-align: justify;
+}
+
+.contenproductos {
+    /*outline: 2px red solid;*/
+    background: url("../img/limpieza5.jpg") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 429px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.fondo {
+    background-color: rgba(0, 0, 0, .5);
+    height: 429px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.titarticulos {
+    text-align: center;
+    font-size: 40px;
+    color: #FFF;
+    margin-top: 3%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contencir {
+    outline: 2px red solid;
+}
+
+.cuadros {
+    width: 20%;
+}
+
+.imgcuadros {
+    width: 100%;
+    height: 180px;
+    background: url("../img/raid.png") no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.nameproductos {
+    clear: both;
+    text-align: center;
+    /*margin-top: 50%;*/
 }
