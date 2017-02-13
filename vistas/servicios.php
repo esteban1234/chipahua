@@ -20,9 +20,11 @@
 <p class="subtit">Servicios para hogares y centros de trabajo</p>
 	</article>
 	<div class="btn-toolbar botonb" role="toolbar">
-  <button type="button" class="btn btn-info btn-lg">
-    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
-  </button>
+  <a href="contacto.php">
+		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
+		  	</button>
+	</a>
 </div>
 </article>
 
@@ -92,11 +94,68 @@
 				</div>
 				<div class="nameproductos">Aerosoles</div>
 			</article>
+
+			<article class="cuadros">
+				<div class="imgcuadros2">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Trapeador</div>
+			</article>
+
+			<article class="cuadros">
+				<div class="imgcuadros3">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Jaladores</div>
+			</article>
+			<article class="cuadros">
+				<div class="imgcuadros4">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Detergentes</div>
+			</article>
+			<article class="cuadros">
+				<div class="imgcuadros5">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Aromatizantes</div>
+			</article>
+			<article class="cuadros">
+				<div class="imgcuadros6">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Cepillos</div>
+			</article>
+
+			<article class="cuadros">
+				<div class="imgcuadros7">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Toallas</div>
+			</article>
+
+			<article class="cuadros">
+				<div class="imgcuadros8">
+					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
+				</div>
+				<div class="nameproductos">Papel Higiénico</div>
+			</article>
+
+			
+
 		</article>
 	</article>
-</article>
+
 
 </article>
+
+
+</article>
+
+<footer>
+	<p class="textpie">Derechos de autor 2017© | LIMPIEZA Y VIGILANCIA ESPECIALIZADA CHIPAUA S.A. de C.V.</p>
+	<p class="textpie2">info@chipahua.com</p>
+</footer>
 
 </body>
 </html>

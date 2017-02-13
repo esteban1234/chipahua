@@ -24,10 +24,12 @@
 	</article>
 
 	<div class="btn-toolbar botonb" role="toolbar">
-  <button type="button" class="btn btn-info btn-lg">
-    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
-  </button>
-</div>
+		  <a href="vistas/contacto.php">
+		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
+		  	</button>
+		  </a>
+	</div>
 </article>
 
 
@@ -63,9 +65,11 @@
 
 <!-- <p class="btn btn-info"><a href="">SERVICIOS</a></p> -->
 <div class="btn-toolbar boton" role="toolbar">
-  <button type="button" class="btn btn-info btn-lg">
-    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Servicios
-  </button>
+  <a href="vistas/servicios.php">
+		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Servicios
+		  	</button>
+		  </a>
 </div>
 	
 </article>
@@ -73,9 +77,11 @@
 <article class="bannerindexabajo">
 	<p>Somos la mejor inversión en la vigilancia de sus oficinas.</p>
 	<div class="btn-toolbar boton" role="toolbar">
-  <button type="button" class="btn btn-info btn-lg">
-    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
-  </button>
+  <a href="vistas/contacto.php">
+		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
+		  	</button>
+		  </a>
 </div>
 </article>
 	

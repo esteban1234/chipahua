@@ -21,9 +21,11 @@
 <p class="subtit">Monitoriamos hogares y centros de trabajo</p>
 	</article>
 	<div class="btn-toolbar botonb" role="toolbar">
-  <button type="button" class="btn btn-info btn-lg">
-    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
-  </button>
+  <a href="contacto.php">
+		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
+		  	</button>
+	</a>
 </div>
 </article>
 
@@ -73,9 +75,11 @@
 
 
 <div class="btn-toolbar boton" role="toolbar">
-  <button type="button" class="btn btn-info btn-lg">
-    <span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
-  </button>
+  <a href="contacto.php">
+		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
+		  	</button>
+	</a>
 </div>
 <br>
 </article>
