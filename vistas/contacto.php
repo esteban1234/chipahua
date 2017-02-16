@@ -101,7 +101,7 @@
                     <div class="panel panel-danger">
                         <div class="panel-heading">Correo
                             <span class="pull-right"><i class="fa fa-envelope-o" aria-hidden="true"></i></span></div>
-                        <div class="panel-body" style="text-align: center;">info@chipahua.com
+                        <div class="panel-body" style="text-align: center;">info@chipaua.com
                         </div>
                     </div>
                 </div>
