@@ -33,6 +33,7 @@
     width: 100%;
     margin: 0px;
     display: none;
+    background-color: #fff;
   }
 
   .menu ul li{
@@ -309,6 +310,7 @@
   .menu{
     width: 100%;
     margin: 0px;
+    background-color: #fff;
     display: none;
   }
 
@@ -581,6 +583,8 @@
     height: 100%;
   }
 
+
+
   figure
   {
     width: 40%;
@@ -605,6 +609,9 @@
     width: 100%;
     margin: 0px;
     display: none;
+    /*background-color: #d98880;*/
+    /*background-color: rgba(14, 33, 71, 0.85);*/
+    background-color: #fff;
   }
 
   .menu ul li{

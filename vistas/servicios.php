@@ -3,8 +3,10 @@
 	<article class="contenheaders">
 <!-- <p></p> -->
 	<header>
+		<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
+		<i class="fa fa-sort-asc menu-cerrar" aria-hidden="true"></i>
 		<figure><img src="../img/chipahua.png" class="img-responsive" alt=""></figure>
-		<div class="menu">
+		<div id="menu" class="menu">
 			<ul>
 				<li><a href="../index.php"><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>
 				<li><a href="nosotros.php"><span><i class="fa fa-users" aria-hidden="true"></i></span>&nbsp;QUIENES SOMOS</a></li>
@@ -154,6 +156,9 @@
 	<p class="textpie">Derechos de autor 2017© | LIMPIEZA Y VIGILANCIA ESPECIALIZADA CHIPAUA S.A. de C.V.</p>
 	<p class="textpie2">info@chipahua.com</p>
 </footer>
+
+<script src="../js/jquery.js"></script>
+<script src="../js/menu.js"></script>
 
 </body>
 </html>
