@@ -106,6 +106,10 @@ figure {
     color: #fff;
 }
 
+.menu-abrir{
+  display: none;
+}
+
 .select {
     background-color: #d98880;
     color: #fff;

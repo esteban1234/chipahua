@@ -1,14 +1,13 @@
-<!DOCTYPE html>
 <?php include 'vistas/encabezado.php' ?>
 
 <body>
-
-
 <article class="contenheader">
 <!-- <p></p> -->
 	<header>
+		<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
+		<i class="fa fa-sort-asc menu-cerrar" aria-hidden="true"></i>
 		<figure><img src="img/chipahua.png" class="img-responsive" alt=""></figure>
-		<div class="menu">
+		<div id="menu" class="menu">
 			<ul>
 				<li class="select"><a href=""><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>
 				<li><a href="vistas/nosotros.php"><span><i class="fa fa-users" aria-hidden="true"></i></span>&nbsp;QUIENES SOMOS</a></li>
@@ -20,7 +19,7 @@
 
 	<article class="banner">
 		<p class="tit text-info">LIMPIEZA COMPLETA!</p>
-<p class="subtit">Limpiamos los hogares y centros de trabajo</p>
+		<p class="subtit">Limpiamos los hogares y centros de trabajo</p>
 	</article>
 
 	<div class="btn-toolbar botonb" role="toolbar">
@@ -45,7 +44,7 @@
 			<p class="info2">Mantenemos sus instalaciones limpias y en buen estado, convirtiendolas en un espacio agradable que les permita realizar sus actividades como coresponden.</p>
 		</div>
 	</div>
-	
+
 	<div class="imagen2">
 	<article class="icono2"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;Productos de limpieza</article>
 		<div class="info">
@@ -53,7 +52,7 @@
 			<p class="info2">Ofrecemos una gran variedad de productos de limpieza para el hogar o industriales.</p>
 		</div>
 	</div>
-	
+
 	<div class="imagen3">
 	<article class="icono"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;Vigilancia</article>
 		<div class="info">
@@ -71,7 +70,7 @@
 		  	</button>
 		  </a>
 </div>
-	
+
 </article>
 
 <article class="bannerindexabajo">
@@ -84,7 +83,7 @@
 		  </a>
 </div>
 </article>
-	
+
 </article>
 <footer>
 	<p class="textpie">Derechos de autor 2017© | LIMPIEZA Y VIGILANCIA ESPECIALIZADA CHIPAUA S.A. de C.V.</p>
@@ -93,9 +92,10 @@
 
 <span class="ir-arriba icon-chevron-up"></span>
 <script src="js/jquery.js"></script>
+<script src="js/menu.js"></script>
 <script type="text/javascript" src="js/iconoarriba.js"></script>
 <script src="js/bootstrap.js"></script>
-  
+
 
 </body>
 </html>

@@ -1,0 +1,1057 @@
+@media screen and (max-width: 480px){
+
+  /***************INICIA INDEX**********************/
+  .contenheader{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+  }
+
+  figure
+  {
+    width: 70%;
+    margin: 0px;
+  }
+
+  .menu-abrir, .menu-cerrar{
+    font-size: 35px;
+    float: right;
+    margin-right: 10%;
+    margin-top: 15%;
+    display: block;
+    cursor: pointer;
+  }
+
+  .menu-cerrar{
+    display: none;
+  }
+
+
+  .menu{
+    width: 100%;
+    margin: 0px;
+    display: none;
+  }
+
+  .menu ul li{
+    width: 100%;
+    text-align: center;
+  }
+
+  .banner .tit, .banner .subtit{
+    width: 100%;
+    margin: 0px;
+  }
+
+  .banner .tit{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5% 0px;
+  }
+
+  .banner .subtit{
+    padding: 3%;
+  }
+
+  .contenheader .botonb
+  {
+    margin: 5% auto;
+    text-align: center;
+    width: 55%;
+  }
+
+  .botonb  button
+  {
+    display: none;
+  }
+
+  .contenedor{
+    /*border: 2px solid red;*/
+  }
+
+  .contenedor .alserv
+  {
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .contenedor .contenserv{
+    /*border: 2px solid red;*/
+  }
+
+  .contenserv .contendivs
+  {
+    /*border: 2px solid green;*/
+    width: 100%;
+  }
+
+  .contendivs .imagen{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen2{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen3{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .icono, .icono2
+  {
+    margin-top: 10%;
+  }
+
+  .info{
+    width: 100%;
+    padding: 0px;
+  }
+
+  .info .headline
+  {
+    width: 100%;
+  }
+
+
+  .info .info2{
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    text-align: justify;
+  }
+
+  .imagen:hover .info {
+    display: none;
+  }
+
+  .imagen2:hover .info {
+      display: none;
+  }
+
+  .imagen3:hover .info {
+      display: none;
+  }
+
+  .boton{
+    margin: auto;
+  }
+
+  .boton  .btn{
+    /*margin: 0px 25%;*/
+    display: none;
+  }
+
+  .bannerindexabajo{
+    height: 100%;
+    margin: 10% 0px;
+  }
+
+  .bannerindexabajo p {
+    padding: 5%;
+    text-align: justify;
+    font-size: 25px;
+  }
+
+
+  footer{
+    height: 100%;
+  }
+
+  .textpie, .textpie2{
+    width: 100%;
+    margin: 0px;
+    font-size: 17px;
+    text-align: justify;
+  }
+
+  .textpie{
+    padding: 5%;
+  }
+
+  .textpie2{
+    text-align: center;
+  }
+
+  /***************INICIA NOSOTROS**********************/
+
+
+  .contenheadern
+  {
+    height: 100%;
+  }
+
+  .contenedor{
+    /*border: 2px solid red;*/
+  }
+
+  .contenedor h1{
+    padding: 5%;
+  }
+
+  .texton .textndentro
+  {
+    width: 100%;
+    padding: 5%;
+    text-align: justify;
+  }
+
+  .contienetextoeimagenes{
+    width: 100%;
+  }
+
+  .textomvv{
+    width: 100%;
+  }
+
+  .mision .misionsubtit{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .imagenes{
+    display: none;
+  }
+
+  /***************INICIA SERVICIOS**********************/
+  .caja_q{
+    width: 96%;
+  }
+
+  .caja_q .caja_q_1{
+    width: 100%;
+    margin: 5% 0px;
+  }
+
+  .contenproductos{
+    height: auto;
+  }
+
+  .fondo{
+    height: 100%;
+  }
+
+  .titarticulos{
+    font-size: 25px;
+  }
+
+  .cuadros{
+    width: 100%;
+    margin: 5% 0px;
+    border-top: .5px solid rgb(196, 227, 233);
+    padding-top: 10%;
+  }
+
+/***************INICIA contacto**********************/
+  .contact_form{
+    /*border: 2px solid red;*/
+    width: 100%;
+  }
+
+  .contact_form ul {
+    width: 100%;
+  }
+
+  .contact_form ul li input, .contact_form ul li textarea{
+    width: 100%;
+  }
+
+  .contact_form ul li button{
+    width: 80%;
+    text-align: center;
+    margin-left:6%;
+  }
+
+  .direcc
+  {
+    width: 100%;
+  }
+
+  .contendirecc .mapa{
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  /***************INICIA INDEX**********************/
+  .contenheader{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+  }
+
+  figure
+  {
+    width: 40%;
+    /*margin: ;*/
+  }
+
+  .menu-abrir, .menu-cerrar{
+    font-size: 35px;
+    float: right;
+    margin-right: 15%;
+    margin-top: 13%;
+    display: block;
+    cursor: pointer;
+  }
+
+  .menu-cerrar{
+    display: none;
+  }
+
+
+  .menu{
+    width: 100%;
+    margin: 0px;
+    display: none;
+  }
+
+  .menu ul li{
+    width: 100%;
+    text-align: center;
+  }
+
+
+  .banner .tit, .banner .subtit{
+    /*border: 2px solid yellow;*/
+    width: 100%;
+    margin: 0px;
+  }
+
+  .banner .tit{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5% 0px;
+  }
+
+  .banner .subtit{
+    padding: 3%;
+  }
+
+  .contenheader .botonb
+  {
+    margin: 5% auto;
+    text-align: center;
+    width: 55%;
+  }
+
+  .botonb  button
+  {
+    display: none;
+  }
+
+
+  .contenedor .alserv
+  {
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .contenserv .contendivs
+  {
+    width: 100%;
+  }
+
+  .contendivs .imagen{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen2{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen3{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .icono, .icono2
+  {
+    margin-top: 15%;
+  }
+
+  .info{
+    width: 100%;
+    padding: 0px;
+  }
+
+  .info .headline
+  {
+    width: 100%;
+  }
+
+
+  .imagen:hover .info {
+      opacity: 1;
+      margin-top: -210px;
+  }
+
+  .imagen2:hover .info {
+      opacity: 1;
+      margin-top: -210px;
+  }
+
+  .imagen3:hover .info {
+      opacity: 1;
+      margin-top: -210px;
+  }
+
+  .info .info2{
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    padding: 5%;
+  }
+
+  .imagen:hover .info {
+    display: none;
+  }
+
+  .imagen2:hover .info {
+      display: none;
+  }
+
+  .imagen3:hover .info {
+      display: none;
+  }
+
+  .boton{
+    margin: auto;
+  }
+
+  .boton  .btn{
+    /*margin: 0px 25%;*/
+    display: none;
+  }
+
+  .bannerindexabajo{
+    height: 100%;
+    margin: 10% 0px;
+  }
+
+  .bannerindexabajo p {
+    padding: 5%;
+    text-align: justify;
+    font-size: 25px;
+  }
+
+
+  footer{
+    height: 100%;
+  }
+
+  .textpie, .textpie2{
+    width: 100%;
+    margin: 0px;
+    font-size: 17px;
+    text-align: justify;
+  }
+
+  .textpie{
+    padding: 5%;
+  }
+
+  .textpie2{
+    text-align: center;
+  }
+
+  /***************INICIA NOSOTROS**********************/
+
+
+  .contenheadern
+  {
+    height: 100%;
+  }
+
+  .contenedor{
+    /*border: 2px solid red;*/
+  }
+
+  .contenedor h1{
+    padding: 5%;
+  }
+
+  .texton .textndentro
+  {
+    width: 100%;
+    padding: 5%;
+    text-align: justify;
+  }
+
+  .contienetextoeimagenes{
+    width: 100%;
+  }
+
+  .textomvv{
+    width: 100%;
+  }
+
+  .mision .misionsubtit{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .imagenes{
+    display: none;
+  }
+
+  /***************INICIA SERVICIOS**********************/
+  .caja_q{
+    width: 80%;
+  }
+
+  .caja_q .caja_q_1{
+    width: 100%;
+    margin: 5% 0px;
+  }
+
+  .contenproductos{
+    height: auto;
+  }
+
+  .fondo{
+    height: 100%;
+  }
+
+  .titarticulos{
+    font-size: 25px;
+  }
+
+  .contencir{
+    /*border: 2px solid red;*/
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+  }
+
+  .cuadros{
+    width: 100%;
+    margin: 5% 0px;
+    border-top: .5px solid rgb(196, 227, 233);
+    padding-top: 10%;
+  }
+
+  /***************INICIA contacto**********************/
+    .contact_form{
+      /*border: 2px solid red;*/
+      width: 100%;
+    }
+
+    .contact_form ul {
+      width: 100%;
+    }
+
+    .contact_form ul li input, .contact_form ul li textarea{
+      width: 100%;
+    }
+
+    .contact_form ul li button{
+      width: 80%;
+      text-align: center;
+      margin-left:10%;
+    }
+
+    .direcc
+    {
+      width: 100%;
+    }
+
+    .contendirecc .mapa{
+      width: 100%;
+    }
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+
+  /***************INICIA INDEX**********************/
+  .contenheader{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+  }
+
+  figure
+  {
+    width: 40%;
+    /*margin: ;*/
+  }
+
+  .menu-abrir, .menu-cerrar{
+    font-size: 35px;
+    float: right;
+    margin-right: 15%;
+    margin-top: 13%;
+    display: block;
+    cursor: pointer;
+  }
+
+  .menu-cerrar{
+    display: none;
+  }
+
+
+  .menu{
+    width: 100%;
+    margin: 0px;
+    display: none;
+  }
+
+  .menu ul li{
+    width: 100%;
+    text-align: center;
+  }
+
+
+  .banner .tit, .banner .subtit{
+    /*border: 2px solid yellow;*/
+    width: 100%;
+    margin: 0px;
+  }
+
+  .banner .tit{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5% 0px;
+  }
+
+  .banner .subtit{
+    padding: 3%;
+  }
+
+  .contenheader .botonb
+  {
+    margin: 5% auto;
+    text-align: center;
+    width: 55%;
+  }
+
+  .botonb  button
+  {
+    display: none;
+  }
+
+
+  .contenedor .alserv
+  {
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .contenserv .contendivs
+  {
+    width: 100%;
+  }
+
+  .contendivs .imagen{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen2{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen3{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .icono, .icono2
+  {
+    margin-top: 15%;
+  }
+
+  .info{
+    width: 100%;
+    padding: 0px;
+  }
+
+  .info .headline
+  {
+    width: 100%;
+  }
+
+  .imagen:hover .headline {
+      margin-left: 0px;
+  }
+
+
+  .imagen2:hover .headline {
+      margin-left: 0px;
+  }
+
+  .imagen3:hover .headline {
+      margin-left: 0px;
+  }
+
+
+  .imagen:hover .info {
+    display: none;
+  }
+
+  .imagen2:hover .info {
+      display: none;
+  }
+
+  .imagen3:hover .info {
+      display: none;
+  }
+
+  .info .info2{
+    margin: 0px;
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    padding: 5%;
+  }
+
+  .boton{
+    margin: auto;
+  }
+
+  .boton  .btn{
+    /*margin: 0px 25%;*/
+    display: none;
+  }
+
+  .bannerindexabajo{
+    height: 100%;
+    margin: 10% 0px;
+  }
+
+  .bannerindexabajo p {
+    padding: 5%;
+    text-align: justify;
+    font-size: 25px;
+  }
+
+
+  footer{
+    height: 100%;
+  }
+
+  .textpie, .textpie2{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    text-align: justify;
+  }
+
+  .textpie{
+    padding: 5%;
+    text-align: center;
+  }
+
+  .textpie2{
+    text-align: center;
+  }
+
+  /***************INICIA NOSOTROS**********************/
+
+
+  .contenheadern
+  {
+    height: 100%;
+  }
+
+  .contenedor{
+    /*border: 2px solid red;*/
+  }
+
+  .contenedor h1{
+    padding: 5%;
+  }
+
+  .texton .textndentro
+  {
+    width: 100%;
+    padding: 5%;
+    text-align: justify;
+  }
+
+  .contienetextoeimagenes{
+    width: 100%;
+  }
+
+  .textomvv{
+    width: 100%;
+  }
+
+  .mision .misionsubtit{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .imagenes{
+    display: none;
+  }
+
+  /***************INICIA SERVICIOS**********************/
+  .caja_q{
+    width: 80%;
+  }
+
+  .caja_q .caja_q_1{
+    width: 100%;
+    margin: 5% 0px;
+  }
+
+  .contenproductos{
+    height: auto;
+  }
+
+  .fondo{
+    height: 100%;
+  }
+
+  .titarticulos{
+    font-size: 25px;
+  }
+
+  .contencir{
+    /*border: 2px solid red;*/
+    overflow: hidden;
+    width: 70%;
+    margin: auto;
+  }
+
+  .cuadros{
+    width: 100%;
+    margin: 5% 0px;
+    border-top: .5px solid rgb(196, 227, 233);
+    padding-top: 10%;
+  }
+
+  /***************INICIA contacto**********************/
+    .contact_form{
+      width: 100%;
+    }
+
+    .contact_form ul {
+      width: 100%;
+    }
+
+    .contact_form ul li input, .contact_form ul li textarea{
+      width: 100%;
+    }
+
+    .contact_form ul li button{
+      width: 80%;
+      text-align: center;
+      margin-left:10%;
+    }
+
+    .direcc
+    {
+      width: 100%;
+    }
+
+    .contendirecc .mapa{
+      width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+
+/***************INICIA INDEX**********************/
+  header figure
+  {
+    margin-left:1%;
+  }
+
+  header .menu{
+    margin-right:1%;
+    display: block;
+  }
+
+  .menu-cerrar, .menu-abrir{
+    display: none;
+  }
+
+  .contenheader{
+    height: 100%;
+    /*padding: % 0px;*/
+  }
+
+  .banner .tit, .banner .subtit{
+    width: 100%;
+    margin: 0px;
+  }
+
+  .banner .tit{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5% 0px;
+  }
+
+  .banner .subtit{
+    padding: 3%;
+  }
+
+  .contenheader .botonb
+  {
+    margin: 5% auto;
+    text-align: center;
+    width: 55%;
+  }
+
+  .botonb
+  {
+    display: none;
+  }
+
+  .contendivs
+  {
+    width: 80%;
+    /*border: 2px solid red;*/
+  }
+
+  .contendivs .imagen{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen2{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen3{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .imagen:hover .info {
+      display: none;
+  }
+
+  .imagen2:hover .info {
+    display: none;
+  }
+
+  .imagen3:hover .info {
+    display: none;
+  }
+
+  .icono, .icono2
+  {
+    margin-top: 15%;
+  }
+
+
+  footer{
+    height: 100%;
+  }
+
+  .textpie, .textpie2{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    text-align: justify;
+  }
+
+  .textpie{
+    padding: 5%;
+    text-align: center;
+  }
+
+  .textpie2{
+    text-align: center;
+  }
+
+  /***************INICIA NOSOTROS**********************/
+
+  .texton p{
+    width: 100%;
+    padding: 5%;
+    text-align: justify;
+  }
+
+  .contienetextoeimagenes{
+    width: 95%;
+  }
+
+  .mision .misionsubtit{
+    text-align: justify;
+  }
+
+  /***************INICIA SERVICIOS**********************/
+  .caja_q{
+    width: 80%;
+  }
+
+  .caja_q .caja_q_1{
+    width: 100%;
+    margin: 5% 0px;
+  }
+
+  .contenproductos{
+    height: auto;
+  }
+
+  .fondo{
+    height: 100%;
+  }
+
+  .titarticulos{
+    font-size: 25px;
+  }
+
+  .contencir{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+  }
+
+  .cuadros{
+    width: 30%;
+    margin: 5% 0px;
+    padding-top: 10%;
+  }
+
+  /***************INICIA CONTACTO**********************/
+  .contact_form{
+    width: 100%;
+  }
+
+  .contact_form ul {
+    width: 100%;
+  }
+
+  .contact_form ul li input, .contact_form ul li textarea{
+    width: 80%;
+  }
+
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+  .contendivs
+  {
+    width: 100%;
+  }
+
+  header figure
+  {
+    margin-left:10%;
+  }
+
+  header .menu{
+    margin-right: 10%;
+  }
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

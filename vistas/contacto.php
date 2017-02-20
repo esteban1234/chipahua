@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-
 <?php include 'encabezado2.php' ?>
 
 <body>
-
 <article class="contenheaderc">
 <!-- <p></p> -->
 	<header>
@@ -17,15 +14,7 @@
 			</ul>
 		</div>
 	</header>
-	<!-- <article class="banner">
-		<p class="tit text-info">SERVICIOS COMPLETOS!</p>
-<p class="subtit">Servicios para hogares y centros de trabajo</p>
-	</article> -->
-	
 </article>
-
-
-
 
 
 	<form class="contact_form" action="#" method="post">
@@ -42,7 +31,7 @@
 
            <label for="name">Nombre (s):</label>
 
-           <input type="text"  placeholder="Nombre completo" required />
+           <input type="text"  name="nombre" placeholder="Nombre completo" required />
 
        </li>
 
@@ -50,7 +39,7 @@
 
            <label for="email">Email:</label>
 
-           <input type="email" name="email" placeholder="ejemplo@ejemplo.com" required />
+           <input type="email" name="correo" placeholder="ejemplo@ejemplo.com" required />
 
        </li>
 
@@ -58,7 +47,7 @@
 
            <label for="website">Teléfono:</label>
 
-           <input type="url" name="web" placeholder="Escriba su numero de teléfono" required />
+           <input type="url" name="telefono" placeholder="Escriba su numero de teléfono" required />
 
        </li>
 
@@ -66,7 +55,7 @@
 
            <label for="Mensaje">Mensaje:</label>
 
-           <textarea name="Mensaje" cols="40" rows="6" required ></textarea>
+           <textarea name="mensaje" cols="40" rows="6" required ></textarea>
 
        </li>
 
@@ -82,7 +71,7 @@
 
 <article class="contendirecc">
 	<article class="direcc">
-		<div class="col-md-4">
+		<div class="col-xs-12 .col-sm-12 col-md-4">
                     <div class="panel panel-danger">
                         <div class="panel-heading">Llámanos
                             <span class="pull-right"><i class="fa fa-fax" aria-hidden="true"></i></span></div>
@@ -90,14 +79,14 @@
                     </div>
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-xs-12 .col-sm-12 col-md-6">
                     <div class="panel panel-danger">
                         <div class="panel-heading">Horarios
                             <span class="pull-right"><i class="fa fa-power-off" aria-hidden="true"></i></span></div>
                         <div class="panel-body" style="text-align: center;">Lunes a Viernes de 9am a 6pm</div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-xs-12 .col-sm-12 col-md-4">
                     <div class="panel panel-danger">
                         <div class="panel-heading">Correo
                             <span class="pull-right"><i class="fa fa-envelope-o" aria-hidden="true"></i></span></div>
@@ -105,7 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-xs-12 .col-sm-12 col-md-6">
                     <div class="panel panel-danger">
                         <div class="panel-heading">Dirección
                             <span class="pull-right"><i class="fa fa-globe" aria-hidden="true"></i></span></div>

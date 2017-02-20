@@ -8,9 +8,7 @@ $mail = new PHPMailer();
 
 $nombre = $_POST['nombre'];
 $telefono = $_POST['telefono'];
-$direccion = $_POST['direccion'];
 $correo = $_POST['correo'];
-$servicio = $_POST['servicio'];
 $comentario = $_POST['mensaje'];
 
 $mail->CharSet = 'utf-8';
@@ -24,9 +22,8 @@ $mail->addAddress("info@chipaua.com");
 $mail->isHTML(true);
 
 $mail->Subject = "Cotizacion Chipaua";
-$mail->Body = "<b>Dirección: </b>.$direccion.<br/>
+$mail->Body = "
               <b>Telefono: </b>.$telefono.<br/>
-              <b>Servicio Solicitado: </b>.$servicio.<br/>
               <b>Comentario: </b>.$comentario.<br/>";
 // $mail->AltBody = "This is the plain text version of the email content";
 
@@ -35,7 +32,7 @@ if(!$mail->send())
     // echo "Error al enviar Mensaje: " . $mail->ErrorInfo;
     echo ("<SCRIPT LANGUAGE='JavaScript'>
           window.alert('Error al Enviar MENSAJE')
-          window.location.href='Contacto.php'
+          window.location.href='contacto.php'
         </SCRIPT>");
 
 }
@@ -43,7 +40,7 @@ else
 {
   echo ("<SCRIPT LANGUAGE='JavaScript'>
         window.alert('Mensaje Enviado Correctamente')
-        window.location.href='Contacto.php'
+        window.location.href='contacto.php'
       </SCRIPT>");
 
 

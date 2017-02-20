@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 
 <body>
@@ -60,7 +59,7 @@
 		<span><i class="fa fa-check" aria-hidden="true"></i></span> Calidad
 		</p>
 	</article>
-		
+
 	</article>
 	<article class="imagenes">
 		<figure class="imagenesdentro">
@@ -69,7 +68,7 @@
 
 		<figure class="imagenesdentro2">
 			<img src="../img/guardias.jpg" class="img-responsive" alt="">
-		</figure>		
+		</figure>
 	</article>
 </article>
 

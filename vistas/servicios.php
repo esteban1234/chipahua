@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
-
 <body>
 	<article class="contenheaders">
 <!-- <p></p> -->
@@ -43,7 +41,7 @@
                     <span><i class="fa fa-check" aria-hidden="true"></i></span>Mantenimiento de aparatos, dispositivos y sistemas de seguridad y de protección.<br> <br>
                     <span><i class="fa fa-check" aria-hidden="true"></i></span>Mayas de seguridad pudiendo ser estas eléctricas o no.<br> <br>
                     <span><i class="fa fa-check" aria-hidden="true"></i></span>Cercas eléctricas  y de alambres en los perímetros de los bienes inmuebles. <br> <br>
-                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Comercialización e instalación de sistemas de alarma y seguridad.         
+                    <span><i class="fa fa-check" aria-hidden="true"></i></span>Comercialización e instalación de sistemas de alarma y seguridad.
 </p>
                 </article>
             </article>
@@ -141,7 +139,7 @@
 				<div class="nameproductos">Papel Higiénico</div>
 			</article>
 
-			
+
 
 		</article>
 	</article>
